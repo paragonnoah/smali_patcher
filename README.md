@@ -20,7 +20,7 @@ This script is a Python-based tool designed to modify and bypass various securit
 2. Ensure you have the necessary dependencies installed.
 3. Run the script using the command:
    ```bash
-   python3 script_name.py <path_to_smali_files>
+   python3 smali_patcher.py <path_to_smali_files>
    ```
    Replace `<path_to_smali_files>` with the directory containing the extracted Smali files.
 4. The script will scan and modify the Smali files automatically.
