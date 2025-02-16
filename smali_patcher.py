@@ -25,7 +25,7 @@ def print_banner():
 	os.system('clear')
 	print(banner)
 	print(f"{bwhite}Version: 7.0{end}")
-	print(f"{bwhite}Created by {bred}@G0D_of_CONFIG {bwhite}& {bred}G0D_of_CONFIG{end} {bwhite}& {bgreen}L-Mon{end}")
+	print(f"{bwhite}Created by{bred}@G0D_of_CONFIG {bwhite}& {bred}G0D_of_CONFIG{end} {bwhite}& {bgreen}L-Mon{end}")
 	print(f"{bblue}Telegram Channel: https://t.me/G0D_of_CONFIG{end}\n")
 
 def create_Utils(extract_folder):
